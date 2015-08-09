@@ -42,6 +42,7 @@
 #include <boost/process/detail/file_handle.hpp> 
 #include <boost/process/detail/pipe.hpp> 
 #include <boost/process/detail/stream_info.hpp> 
+#include <boost/filesystem.hpp>
 #include <boost/filesystem/path.hpp> 
 #include <boost/algorithm/string/predicate.hpp> 
 #include <boost/system/system_error.hpp> 
